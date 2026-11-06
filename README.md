@@ -3,8 +3,7 @@
 A simple and responsive Expense Tracker web application built using HTML, CSS, and JavaScript. It helps users manage their income and expenses and track their available balance.
 
 ## 🚀 Live Demo
-
-[View Expense Tracker](PASTE_YOUR_VERCEL_URL_HERE)
+https://expense-tracker-phi-plum-77.vercel.app
 
 ## ✨ Features
 
